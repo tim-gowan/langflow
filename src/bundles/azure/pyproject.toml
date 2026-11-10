@@ -16,7 +16,7 @@ keywords = ["langflow", "lfx", "extension", "bundle", "azure", "azure-ai-foundry
 # without restoring the opt-in lfx-bundles metapackage.
 dependencies = [
     "lfx>=1.13.0.dev0,<2.0.0",
-    "langchain-openai>=1.1.6",
+    "langchain-openai==1.7.3",
     "langchain-azure-ai>=1.1.0,<2.0.0",
 ]
 
