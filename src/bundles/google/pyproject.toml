@@ -24,7 +24,7 @@ dependencies = [
     "google-cloud-bigquery>=3.35,<4.0.0",
     "google-genai>=1.75.0,<2.0.0",
     "langchain-community>=0.4.1,<1.0.0",
-    "langchain-core>=1.2.28,<2.0.0",
+    "langchain-core==1.7.7",
     "langchain-google-community~=5.0.0",
     "langchain-google-genai~=4.1.2",
     "requests>=2.32.0",
