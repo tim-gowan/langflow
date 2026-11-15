@@ -17,7 +17,7 @@ keywords = ["langflow", "lfx", "extension", "bundle", "google", "gemini"]
 dependencies = [
     # Requires the shared IntegrationNetworkError added for 1.13.0.
     "lfx>=1.13.0,<2.0.0",
-    "google-api-python-client~=2.161",
+    "google-api-python-client==2.202.0",
     "google-auth>=2.38.0,<3.0.0",
     "google-auth-oauthlib>=1.2.0,<2.0.0",
     "oauthlib>=4.0.0,<5.0.0",  # CVE-2026-49264, CVE-2026-49265
