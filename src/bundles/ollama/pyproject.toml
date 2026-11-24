@@ -16,7 +16,7 @@ keywords = ["langflow", "lfx", "extension", "bundle", "ollama", "local-models"]
 dependencies = [
     "lfx>=1.13.0.dev0,<2.0.0",
     "httpx>=0.24.0,<1.0.0",
-    "langchain-ollama~=0.3.10",
+    "langchain-ollama==1.0.0",
 ]
 
 [project.urls]
